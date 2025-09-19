@@ -197,3 +197,18 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Univision.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYgtVgyOHWq3H3jdaK6coAvGjZwglv630QZlY_-dge6ySt7t4qtrBN7ffCWoFwmKANDLUOwzTYplshyphenhyphenrX037BoMVkdhkjl4_QJ998mgp56xZPUNtT355s9s1F9HHgvsI4U4DJ38d8tUX3jLrcpbG27AzPxIMzbghwloipzqJ6VO1ezcnSR-nKzhKvbdQ/s200/A3-SERIES.jpg" group-title="VARIADO",Atreseries
 https://bantel-cdn1.iptvperu.tv:1936/xmp_trans/a3series.stream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/9hDmw7r/Dragon-Ball.png" group-title="24/7",Dragon Ball
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/9hDmw7r/Dragon-Ball.png" group-title="24/7",Dragon Ball
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/zmsDrL7/Dragon-Ball-Z.png" group-title="24/7",Dragon Ball Z
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/YPXzVkc/Dragol-ball-super.png" group-title="24/7",Dragon Ball Super
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/tKygd48/El-chavo.png" group-title="24/7",El Chavo del 8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse2/playlist.m3u8
+
