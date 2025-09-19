@@ -209,6 +209,5 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse3/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/YPXzVkc/Dragol-ball-super.png" group-title="24/7",Dragon Ball Super
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse4/playlist.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/tKygd48/El-chavo.png" group-title="24/7",El Chavo del 8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse2/playlist.m3u8
