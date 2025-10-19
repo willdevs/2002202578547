@@ -66,10 +66,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/Mytime.stream/playlist.m3u8
 http://bantel-cdn1.iptvperu.tv:1935/btnscrtn/espn-mux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPzmwUTnvJKsKdG3i2ICd72NYf0GZjOhA5OHZHu4XHarFuG9hfJ9ZKQVH-eNx0S4UcjhIHuByKX9xDFvTHvnU3sFh-rin1-PVb4t8yoPZA-ldpzRq8BtHE-9_xBsGen16hEJJpGWKbuIa0bn_QsnjncgBYgPhzyNYJ-DBhqNPwNn9MipjX71nZAoyDEQ/s200/ESPN-2.jpg" group-title="DEPORTES",ESPN 2
-https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN2/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn2-mux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5NppfQ8ZH3sfpr5OUFhSXmZmC9-yvkiOoPc3ofHLa0MKp7ABGIu5c7kBjz9JONchXEX7vw4fpgmXIBaqi4hOHcmaUwy4uAiX-Xh-fcbkFct_Wqb21aWWDJfcWzyZRW1Z9JSOvIf9XfUO_8foHXKNOjebiOPcTFW3-8gSG5u7aa6U5mQtZm3k5Y4xmcw/s200/ESPN-3.jpg" group-title="DEPORTES",ESPN 3
-https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN3/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn3-mux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTKa8dj60BYecDKiqn8gc5kmWMiSEsYoTlxAsvbWMjfWSGXMy3TADiMATdROGlpwBOyv9ybekEJBDn8OREPdul2ZHTLLunaBgK-BzW8m3Hr3PmdbK8l9PN438hR5rO9-iVBE_4wVyXIqc3bIMNAJnncl5zv35DPldJMvtatbEtPqbxPirF84eSuiY5lQ/s200/ESPN-4.jpg" group-title="DEPORTES",ESPN 4
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
@@ -78,10 +78,10 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn4-mux/playlist.m3u8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn5-mux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhliT9MSZdOBQVBgv53uu4gyb_g-JZkvVvJLIa9Nsyiq2mpAS_KzQ2iIOQ2HUuBMQLoUNIastijbKhB4OxBtH38LazzS4MNCREczLv7HFH7aaap_ECsKweDOlV8eDMyPOjl9AKoc1YDGtxmPSrJKJA5ZEhwyhnqifCqwELWL5Hh6ilnmaiCkubPYuJ6AA/s200/ESPN-6.jpg" group-title="DEPORTES",ESPN 6
-https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN6/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/espn6-mux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-name="ESPN 7" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaqSSncs7HaqXrxeJIrF6vRc9VqR9hI9X9zs7mUZuYxzblk905NBJsDflZVIWvTcupdtmKDZ-rV4GvPjBWxA5hvDlGglJxMKk3i65S8hOrIZ7hsgUjTuhPxxKzaGIpYZ6hNjng-VI8PHTtVDHYh-5Cbc8l3G98fDfu6A4z0zs0pxYD_mPfkVb7omkEAg/s200/ESPN-7.jpg" group-title="DEPORTES",ESPN 7
-https://bantel-cdn1.iptvperu.tv:1936/Bantel_new/ESPN7/playlist.m3u8
+https://bantel-cdn1.iptvperu.tv:1936/prueba.vlc/espn7-mux/playlist.m3u8
 
 #EXTINF:-1 tvg-id="2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijdexnmJGDjqCVIaK8XCDAA0UhPXH7eJ7q9X-M7W6ev5evFCH-xYfu7RwmJpc-pHUjhbEJ8N_biX0Ok9ggdazIiMtFn7HMzPLxLuuH6ofixrQjXVKDBuoUIRLkEB03T_rq0FL1Er5x1-Z5bAwKHVu7KzyonilRIx9xrlnKIfRM3wgBSyadIRwSg0RoCw/s200/ESPN-PREMIUM.jpg" group-title="DEPORTES",ESPN Premium
 http://bantel-cdn1.iptvperu.tv:1935/xmp_trans/Espn_premium.stream/playlist.m3u8
@@ -211,3 +211,4 @@ https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse4/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://i.ibb.co/tKygd48/El-chavo.png" group-title="24/7",El Chavo del 8
 https://bantel-cdn1.iptvperu.tv:1936/btnscrtn/animeverse2/playlist.m3u8
+
